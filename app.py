@@ -1,7 +1,8 @@
 import streamlit as st
-
+# chèn tiêu đề
+st.title("Nguyễn Thanh Ngọc")
 st.image("logo.jpg.jfif")
-st.title("Cho Vay Online Khách Hàng Cá Nhân")
+st.title("App cho vay online khách hàng cá nhân")
 
 # Nhập dữ liệu
 STV = st.number_input(
