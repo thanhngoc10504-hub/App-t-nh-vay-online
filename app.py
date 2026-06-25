@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.image("logo.jpg.jfif")
-st.title("Ứng dụng đánh giá khả năng vay vốn")
+st.title("Cho Vay Online Khách Hàng Cá Nhân")
 
 # Nhập dữ liệu
 STV = st.number_input(
