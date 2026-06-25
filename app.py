@@ -1,7 +1,7 @@
 import streamlit as st
+st.image("logo.jpg.jfif")
 # chèn tiêu đề
 st.title("Nguyễn Thanh Ngọc")
-st.image("logo.jpg.jfif")
 st.title("App cho vay online khách hàng cá nhân")
 
 # Nhập dữ liệu
