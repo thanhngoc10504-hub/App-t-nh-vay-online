@@ -1,6 +1,6 @@
 import streamlit as st
 
-
+st.image("logo.jpg.jfif")
 st.title("Ứng dụng đánh giá khả năng vay vốn")
 
 # Nhập dữ liệu
